@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS</string>
+    <string name="hello_world">Track Your Location using GPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_location">Get Location</string>
+    <string name="my_latitude">My Latitude :</string>
+    <string name="my_longitude">My Longitude :</string>
+    <string name="gps_coordinates_to_standard_address">Convert GPS Coordinates to Standard Address</string>
+    <string name="find_your_distance_to_turn_to_tech">Find Your Distance to Turn to Tech</string>
+    <string name="street_number"><u>Street Number:</u></string>
+    <string name="route"><u>Route:</u></string>
+    <string name="neighborhood"><u>Neighborhood:</u></string>
+    <string name="state"><u>State:</u></string>
+    <string name="zip_code"><u>Zip Code:</u></string>
+    <string name="your_closest_address_is">YOUR CLOSEST ADDRESS IS:</string>
+
+</resources>

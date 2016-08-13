@@ -1,0 +1,2 @@
+files=MainActivity.java,main/AndroidManifest.xml,activity_main.xml,Tracker.java,strings.xml
+type=android
